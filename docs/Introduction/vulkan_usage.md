@@ -83,4 +83,4 @@ swapchain_loader.queue_present(graphics_queue, render_semaphore);
 ```
 </div>
 
-Next: [Project files and libraries](/docs/Introduction/project_layout_and_crates)
+Next: [Project files and libraries]({{ site.baseurl }}/docs/Introduction/project_layout_and_crates)

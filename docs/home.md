@@ -32,4 +32,4 @@ The guide is separated into multiple chapters. Each chapter focuses on a narrow 
 - **Chapter 5**: Vulkan textured rendering
 
 
-Next: [Introduction to Vulkan](Introduction/vulkan_api.html)
+Next: [Introduction to Vulkan]({{ site.baseurl }}/docs/Introduction/vulkan_api.html)
